@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Giris.unity
+    guid: baf949427041faf4d87bae9b8ab20ff3
+  - enabled: 1
+    path: Assets/Scenes/IlkSeviyeGiris.unity
+    guid: 60549e7b6ad93594cb08d4de0bdee53c
+  - enabled: 1
+    path: Assets/Scenes/IlkSeviye.unity
+    guid: 029686e397fb2584b9b77d42d7a23092
+  - enabled: 1
+    path: Assets/Scenes/IkinciSeviyeGiris.unity
+    guid: c1f53c59579785646962f7f3a8454b76
+  - enabled: 1
+    path: Assets/Scenes/IkinciSeviye.unity
+    guid: ac705e87766af074f9eb308f23516e96
+  - enabled: 1
+    path: Assets/Scenes/UcuncuSeviyeGiris.unity
+    guid: e6d209ed7dcab1f40845dfd9fe27c188
+  - enabled: 1
+    path: Assets/Scenes/UcuncuSeviye.unity
+    guid: 6a9d8fdcbe05029429cc27dd6bcc7926
+  - enabled: 1
+    path: Assets/Scenes/DorduncuSeviyeGiris.unity
+    guid: 4710011cf753d494ebd580619c210954
+  - enabled: 1
+    path: Assets/Scenes/DorduncuSeviye.unity
+    guid: 424fe566a4d984c42bd1db8f0292a4e6
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 09f17fc859473204d8c0c396d09ecf62
+  m_configObjects: {}

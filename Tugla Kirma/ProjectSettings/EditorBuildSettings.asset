@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: bfd7ccd2aef9c6946ab8f497e4927a79
+  - enabled: 1
+    path: Assets/Scenes/Bolum1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bolum2.unity
+    guid: e7449c5079607c746bb46adb5afc7d92
+  - enabled: 1
+    path: Assets/Scenes/Bolum3.unity
+    guid: 680e05e42cb85a04bb133152b84916e2
+  - enabled: 1
+    path: "Assets/Scenes/OyunuKazand\u0131n\u0131z.unity"
+    guid: 6e0c98ec1b52fc94a99fdef9dd76b5d4
+  - enabled: 1
+    path: Assets/Scenes/OyunuKaybettiniz.unity
+    guid: 81549eacb5ead0e4f8d343ea4868c284
+  m_configObjects: {}
